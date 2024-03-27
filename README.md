@@ -1,7 +1,7 @@
 Homayoon Ahmadi
 ===============================
 
-Experienced Android Software Developer
+Android Developer
 -----------------------------
 
 *   🚀  I'm currently working at [Fanus Radar Co.](http://fanus-co.com)
