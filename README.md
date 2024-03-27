@@ -4,7 +4,6 @@ Homayoon Ahmadi
 Android Developer
 -----------------------------
 
-*   🚀  I'm currently working at [Fanus Radar Co.](http://fanus-co.com)
 *   🤝  I'm open to collaborating on interesting projects as an Android developer
 *   🖥️  See my web page at [programmerplus.ir](https://programmerplus.ir)
 
