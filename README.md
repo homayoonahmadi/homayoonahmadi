@@ -4,8 +4,8 @@ Homayoon Ahmadi
 Android Developer
 -----------------------------
 
-*   🤝  I'm open to collaborating on interesting projects as an Android developer
-*   🖥️  See my web page at [programmerplus.ir](https://programmerplus.ir)
+*   🤝  Open to collaborate on Android projects
+*   🖥️  Passionate about mastering Android development
 
                     
 ### My Network
